@@ -1,6 +1,6 @@
 # 🤍 2023 Google Solution Challenge 🤍
 
-> '양성기', 2023 Google Solution Challenge 팀 <br>
+> '양성기(양현준 배성호 정문기)', 2023 Google Solution Challenge 팀 <br>
 2023.02.04 - 2023.03.31
 
 <img width="928" alt="스크린샷 2023-02-04 오전 1 50 17" src="https://user-images.githubusercontent.com/45239582/216660417-e7e613cb-571f-4172-841d-ad9c77f29a09.png">
@@ -8,7 +8,7 @@
 ## 프로덕트 이름
 '양성기(양현준 배성호 정문기)' 'Yang Sung Gi'
 
--> 프로덕트 썸네일 넣기!
+[프로덕트 썸네일 넣기!]
 
 <br>
 
