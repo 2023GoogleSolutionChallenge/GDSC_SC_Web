@@ -1,6 +1,6 @@
 ---
-name: FIX_ISSUE_TEMPLATE
-about: Bug&Fix 이슈 템플릿입니다.
+name: ⛑ FIX_ISSUE_TEMPLATE
+about: ⛑ Bug&Fix 이슈 템플릿입니다.
 title: ''
 labels: ''
 assignees: ''
@@ -9,7 +9,7 @@ assignees: ''
 
 ---
 name: "⛑ Bug&Fix Issue Template"
-about: Bug&Fix 이슈 템플릿입니다.
+about: ⛑ Bug&Fix 이슈 템플릿입니다.
 title: "[Fix] 어쩌고-저쩌고"
 labels: "bug & fix"
 assignees: ''
