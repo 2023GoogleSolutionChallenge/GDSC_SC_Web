@@ -1,6 +1,6 @@
 ---
-name: CHORE_ISSUE_TEMPLATE
-about: Chore 이슈 템플릿입니다.
+name: 🤖 CHORE_ISSUE_TEMPLATE
+about: 🤖 Chore 이슈 템플릿입니다.
 title: ''
 labels: ''
 assignees: ''
