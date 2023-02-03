@@ -1,6 +1,6 @@
 ---
-name: FEATURE_ISSUE_TEMPLATE
-about: 'Feature 이슈 템플릿입니다. '
+name: 🕸️ FEATURE_ISSUE_TEMPLATE
+about: '🕸️ Feature 이슈 템플릿입니다. '
 title: ''
 labels: ''
 assignees: ''
@@ -8,8 +8,8 @@ assignees: ''
 ---
 
 ---
-name: "🍏 Feature Issue Template"
-about: Feature 이슈 템플릿입니다.
+name: "🕸️ Feature Issue Template"
+about: 🕸️ Feature 이슈 템플릿입니다.
 title: "[Feat] 어쩌고-저쩌고"
 labels: ''
 assignees: ''
