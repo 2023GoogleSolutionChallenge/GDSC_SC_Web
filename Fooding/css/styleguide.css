@@ -1,0 +1,46 @@
+:root { 
+  --black: #000000;
+  --casal: #31647666;
+  --foodingbase3: #316476;
+  --foodinglight1: #a1b5bc;
+  --foodingwhite: #ffffff;
+ 
+  --font-size-l: 64px;
+  --font-size-m: 16px;
+  --font-size-xl: 96px;
+ 
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-oleo_script_swash_caps: "Oleo Script Swash Caps", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+}
+.arial-regular-normal-casal-16px {
+  color: var(--casal);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-regular-normal-casal-16px-2 {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-regular-normal-white-16px {
+  color: var(--foodingwhite);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.oleoscriptswashcaps-bold-casal-64px {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-oleo_script_swash_caps);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}

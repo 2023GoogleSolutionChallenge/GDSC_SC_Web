@@ -1,0 +1,63 @@
+/* screen - sign-up-completed */
+
+.sign-up-completed {
+  align-items: center;
+  background-color: var(--foodingwhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  padding: 250px 505px;
+  width: 1440px;
+}
+
+.sign-up-completed .group-19 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 1.0px;
+  min-width: 211px;
+}
+
+.sign-up-completed .lets {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-oleo_script_swash_caps);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  height: 120px;
+  letter-spacing: 0;
+  line-height: normal;
+  text-align: center;
+  width: 209px;
+}
+
+.sign-up-completed .fooding {
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 1.0px;
+  margin-top: 12px;
+  min-height: 68px;
+  text-align: center;
+  width: 259px;
+}
+
+.sign-up-completed .frame-681 {
+  align-items: flex-start;
+  align-self: flex-start;
+  background-image: url(../img/vector-1.svg);
+  background-size: 100% 100%;
+  cursor: pointer;
+  display: flex;
+  height: 50px;
+  margin-top: 90px;
+  padding: 15px 189px;
+  width: 429px;
+}
+
+.sign-up-completed .sign-in {
+  letter-spacing: -0.08px;
+  line-height: normal;
+  margin-left: 1px;
+  min-height: 18px;
+  min-width: 50px;
+  text-align: center;
+}
