@@ -1,0 +1,180 @@
+:root { 
+  --black: #000000;
+  --casal: #31647666;
+  --foodingbase3: #316476;
+  --foodinglight1: #a1b5bc;
+  --foodingwhite: #ffffff;
+ 
+  --font-size-l: 64px;
+  --font-size-m: 16px;
+  --font-size-xl: 96px;
+ 
+  --font-family-arial-regular: "Arial-Regular", Helvetica;
+  --font-family-oleo_script_swash_caps: "Oleo Script Swash Caps", Helvetica;
+  --font-family-open_sans: "Open Sans", Helvetica;
+}
+.arial-regular-normal-casal-16px {
+  color: var(--casal);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-regular-normal-casal-16px-2 {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.arial-regular-normal-white-16px {
+  color: var(--foodingwhite);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+
+.oleoscriptswashcaps-bold-casal-64px {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-oleo_script_swash_caps);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 700;
+}
+
+:root {
+  --black: 
+rgba(0, 0, 0, 1);
+  --foodingbase2: 
+rgba(49, 77, 90, 1);
+  --casal: 
+rgba(49, 100, 118, 0.4);
+  --foodingbase3: 
+rgba(49, 100, 118, 1);
+  --foodingbase4: 
+rgba(102, 162, 191, 1);
+  --foodinglight1: 
+rgba(161, 181, 188, 1);
+  --crimson: 
+rgba(217, 26, 52, 1);
+  --foodingorange2: 
+rgba(243, 168, 113, 1);
+  --foodingorange1: 
+rgba(255, 146, 66, 1);
+  --foodingwhite: 
+rgba(255, 255, 255, 1);
+
+  --font-size-xs: 12px;
+  --font-size-s: 14px;
+  --font-size-m: 16px;
+  --font-size-l: 20px;
+  --font-size-xl: 28px;
+  --font-size-xl: 96px;
+  --font-size-xxl: 32px;
+  --font-size-l2: 64px;
+
+  --font-family-arial-regular: "Arial-Regular";
+  --font-family-inter: "Inter";
+  --font-family-nanum_gothic: "Nanum Gothic";
+  --font-family-oleo_script_swash_caps: "Oleo Script Swash Caps";
+  --font-family-open_sans: "Open Sans";
+  --font-family-open_sans-regular: "Open Sans-Regular";
+}
+
+
+
+.oleoscriptswashcaps-bold-casal-64px {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-oleo_script_swash_caps);
+  font-size: var(--font-size-l2);
+  font-weight: 700;
+  font-style: normal;
+}
+.opensans-regular-normal-casal-16px {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-open_sans-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.nanumgothic-normal-tan-14px {
+  color: var(--foodingorange2);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  font-style: normal;
+}
+.nanumgothic-bold-pickled-bluewood-28px {
+  color: var(--foodingbase2);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 700;
+  font-style: normal;
+}
+.nanumgothic-normal-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-l);
+  font-weight: 400;
+  font-style: normal;
+}
+.opensans-regular-normal-casal-16px-2 {
+  color: var(--casal);
+  font-family: var(--font-family-open_sans-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.nanumgothic-normal-black-12px {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xs);
+  font-weight: 400;
+  font-style: normal;
+}
+.opensans-normal-casal-16px-2 {
+  color: var(--casal);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.arial-regular-normal-casal-16px {
+  color: var(--casal);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.inter-bold-crimson-32px {
+  color: var(--crimson);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  font-style: normal;
+}
+.opensans-normal-casal-16px {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-open_sans);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.arial-regular-normal-white-16px {
+  color: var(--foodingwhite);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+.arial-regular-normal-casal-16px-2 {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-arial-regular);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  font-style: normal;
+}
+

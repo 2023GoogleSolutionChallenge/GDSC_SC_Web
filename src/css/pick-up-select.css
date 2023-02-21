@@ -1,0 +1,368 @@
+@import url("https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps:700|Nanum+Gothic:400,700,800|Inter:700|Oleo+Script:400,700");
+
+.pick-up-select {
+  align-items: center;
+  background-color: var(--foodingwhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.frame-692 {
+  align-items: flex-start;
+  background-color: var(--foodingbase3);
+  display: flex;
+  height: 100px;
+  margin-top: 74px;
+  padding: 28px 148px;
+  width: 1440px;
+}
+
+.x123-cheomdangwagi-r {
+  color: var(--foodingwhite);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 34px;
+  margin-top: 31px;
+  min-width: 1332px;
+}
+
+.frame-694 {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 157px;
+  margin-top: 16px;
+  width: 562px;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.support {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 46px;
+  margin-top: -1px;
+}
+
+.notice {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42px;
+  margin-top: -1px;
+  min-width: 84px;
+  text-align: center;
+}
+
+.pick-up-select .line {
+  align-self: center;
+  height: 27px;
+  margin-bottom: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.line-1 {
+  margin-left: 42px;
+}
+
+.line-2 {
+  margin-left: 46px;
+}
+
+.about-fooding {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 196px;
+}
+
+.group-20 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 19px;
+  min-width: 360px;
+}
+
+.rectangle-828517 {
+  height: 80px;
+  object-fit: cover;
+  width: 80px;
+}
+
+.title {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-oleo_script_swash_caps);
+  font-size: var(--font-size-l2);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 68px;
+  width: 259px;
+}
+
+.icon-bell {
+  height: 32px;
+  margin-left: 150px;
+  margin-top: 9.4px;
+  width: 32px;
+}
+
+.icon-person-crop-circle {
+  cursor: pointer;
+  height: 32px;
+  margin-left: 36px;
+  margin-top: 9.4px;
+  width: 35px;
+}
+
+.flex-row-1 {
+  align-items: flex-end;
+  display: flex;
+  gap: 69px;
+  margin-left: 1px;
+  margin-top: 119px;
+  min-width: 1157px;
+}
+
+.frame-694-1 {
+  align-items: flex-start;
+  display: flex;
+  width: 684px;
+}
+
+.group-23 {
+  align-items: center;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/63f250fa0065995df50e0bd5/releases/63f2531346ac35fd4bd38bec/img/img-1346-5.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 619px;
+  justify-content: flex-end;
+  min-width: 684px;
+  padding: 18.1px 23px;
+}
+
+.pick-up-select .overlap {
+  align-items: flex-end;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  height: 106px;
+  justify-content: flex-end;
+  min-width: 79px;
+  padding: 15.7px 22.5px;
+}
+
+.overlap-group1 {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/63f250fa0065995df50e0bd5/releases/63f2531346ac35fd4bd38bec/img/-----------2023-02-15------4-54-1-1@2x.png);
+  margin-top: 201.11px;
+}
+
+.number {
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 63px;
+  text-align: center;
+  width: 28px;
+}
+
+.overlap-group2 {
+  align-self: flex-end;
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/63f250fa0065995df50e0bd5/releases/63f2531346ac35fd4bd38bec/img/-----------2023-02-15------4-54-1-2@2x.png);
+  margin-left: 65px;
+}
+
+.overlap-group {
+  background-image: url(https://anima-uploads.s3.amazonaws.com/projects/63f250fa0065995df50e0bd5/releases/63f2531346ac35fd4bd38bec/img/-----------2023-02-15------4-54-1@2x.png);
+  margin-bottom: 176.39px;
+  margin-left: 216px;
+}
+
+.frame-container {
+  height: 620px;
+  position: relative;
+  width: 404px;
+}
+
+.frame-701 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 28px;
+  height: 208px;
+  left: 0;
+  padding: 17px 16px;
+  position: absolute;
+  top: 0;
+  width: 404px;
+}
+
+.frame-702 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  gap: 9px;
+  height: 22px;
+  padding: 2px 0;
+  width: 95px;
+}
+
+.back-to-list {
+  color: var(--foodingbase2);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 16px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.vector-1 {
+  align-self: center;
+  height: 12px;
+  margin-left: 5px;
+  width: 6px;
+}
+
+.group-24 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-left: 5px;
+  min-height: 100px;
+  width: 337px;
+}
+
+.banam-high-school {
+  color: var(--foodingbase1);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 32px;
+}
+
+.the-number-of-lunch-boxes-left-28 {
+  align-self: center;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 10px;
+  min-height: 16px;
+  min-width: 243px;
+}
+
+.distance-from-your-c {
+  align-self: flex-end;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-right: 6px;
+  min-height: 16px;
+  min-width: 289px;
+}
+
+.frame-695 {
+  align-items: center;
+  background-color: 
+#cee0e8;
+  display: flex;
+  flex-direction: column;
+  height: 619px;
+  left: 1px;
+  padding: 43px 54px;
+  position: absolute;
+  top: 1px;
+  width: 402px;
+}
+
+.group-21 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-top: 43px;
+  min-width: 220px;
+}
+
+.frame-682 {
+  align-items: flex-start;
+  background-color: 
+#ffffff80;
+  border: 1px solid;
+  border-color: var(--foodingbase3);
+  border-radius: 20px;
+  display: flex;
+  gap: 14px;
+  height: 50px;
+  overflow: hidden;
+  padding: 16px 30px;
+  width: 220px;
+}
+
+.select-this-lunch-box {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: 16px;
+  letter-spacing: -0.07px;
+  line-height: normal;
+  min-width: 138px;
+}
+
+.vector {
+  align-self: center;
+  height: 16px;
+  width: 8px;
+}
+
+.todays-menu {
+  color: var(--black);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: 170px;
+  min-height: 16px;
+  min-width: 104px;
+}
+
+.image-5 {
+  align-self: flex-end;
+  height: 237px;
+  margin-top: 17px;
+  object-fit: cover;
+  width: 292px;
+}

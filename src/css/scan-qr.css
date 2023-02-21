@@ -1,0 +1,208 @@
+@import url("https://fonts.googleapis.com/css?family=Oleo+Script+Swash+Caps:700|Nanum+Gothic:400,700,800|Oleo+Script:400,700|Inter:700");
+
+.scan-qr {
+  align-items: center;
+  background-color: var(--foodingwhite);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 1024px;
+  width: 1440px;
+}
+
+.hidden,
+.hidden * {
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.scan-qr .group {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+}
+
+.group-23 {
+  margin-left: 1px;
+  margin-top: 50px;
+  min-width: 271px;
+}
+
+.scan-qr .frame {
+  align-items: flex-start;
+  display: flex;
+}
+
+.frame-682 {
+  background-color: 
+#ffffff80;
+  border: 1px solid;
+  border-color: var(--foodingbase3);
+  border-radius: 20px;
+  gap: 56px;
+  height: 50px;
+  overflow: hidden;
+  padding: 16px 30px;
+  width: 271px;
+}
+
+.go-back-to-homepage {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-s);
+  font-weight: 700;
+  height: 16px;
+  letter-spacing: -0.07px;
+  line-height: normal;
+  min-width: 147px;
+}
+
+.valign-text-middle {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.vector {
+  align-self: center;
+  height: 16px;
+  width: 8px;
+}
+
+.image-4 {
+  height: 443px;
+  margin-left: 1px;
+  margin-top: 39px;
+  object-fit: cover;
+  width: 445px;
+}
+
+.flex-row {
+  align-items: center;
+  display: flex;
+  margin-right: 34px;
+  margin-top: 31px;
+  min-width: 1332px;
+}
+
+.icon-person-crop-circle {
+  cursor: pointer;
+  height: 34px;
+  margin-left: 36px;
+  margin-top: 17.68px;
+  width: 35px;
+}
+
+.icon-bell {
+  height: 34px;
+  margin-left: 150px;
+  margin-top: 17.68px;
+  width: 32px;
+}
+
+.frame-694 {
+  margin-left: 157px;
+  margin-top: 16px;
+  width: 562px;
+}
+
+.scan-qr .line {
+  align-self: center;
+  height: 27px;
+  margin-bottom: 1px;
+  object-fit: cover;
+  width: 1px;
+}
+
+.line-2 {
+  margin-left: 46px;
+}
+
+.valign-text-bottom {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.support {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 46px;
+  margin-top: -1px;
+}
+
+.line-1 {
+  margin-left: 42px;
+}
+
+.notice {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-left: 42px;
+  margin-top: -1px;
+  min-width: 84px;
+  text-align: center;
+}
+
+.about-fooding {
+  height: 32px;
+  letter-spacing: 0;
+  line-height: normal;
+  margin-top: -1px;
+  min-width: 196px;
+}
+
+.group-20 {
+  gap: 19px;
+  min-width: 360px;
+}
+
+.rectangle-828517 {
+  height: 80px;
+  object-fit: cover;
+  width: 80px;
+}
+
+.title {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-oleo_script_swash_caps);
+  font-size: var(--font-size-l2);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: normal;
+  min-height: 68px;
+  width: 259px;
+}
+
+.frame-692 {
+  background-color: var(--foodingbase3);
+  height: 100px;
+  margin-top: 75px;
+  padding: 28px 148px;
+  width: 1440px;
+}
+
+.x123-cheomdangwagi-r {
+  color: var(--foodingwhite);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 41px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.please-scan-the-qr-c {
+  color: var(--foodingbase3);
+  font-family: var(--font-family-nanum_gothic);
+  font-size: var(--font-size-xxl);
+  font-weight: 800;
+  letter-spacing: -0.16px;
+  line-height: normal;
+  margin-left: 1px;
+  margin-top: 119px;
+  min-height: 37px;
+  min-width: 887px;
+}
